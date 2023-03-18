@@ -1,4 +1,7 @@
-### Hi there 👋
+### ✨ Welcome to my Github page ✨
+I am a computer scientist, finishing my Masters at ETH in Summer 2023. I am excited about computer graphics and machine learning in general, with a strong interest in VFX, 3D game engines as well as augmented reality.
+
+Visit [My project page](https://veroniquek.github.io/) for some of my projects. 
 
 <!--
 **veroniquek/veroniquek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
